@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding: 10px;
+}
+*{   
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat",sans-serif;
+}
+.values{
+    padding: 0px 0;
+    background: rgb(251, 227, 178);
+    text-align: center;
+
+}
+.testimonial{
+    background-color: rgb(248, 218, 179);
+}
+.inner{
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    padding: 30px;
+}
+.border{
+    height: px;
+    margin: 10px auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.col{
+flex: 33.33%;
+max-width: 33.33%;
+box-sizing: border-box;
+padding: 35px;
+
+
+}
+.values img{
+    width: 80px;
+    height: 70px;
+    border-radius: 50%;
+}
+.Name{
+    font-size: 20px;
+    margin-bottom: 20px;
+
+
+}

@@ -1,0 +1,52 @@
+.footer{
+    position: absolute;
+    top:215%;
+    width: 100%;
+    height: 85%;
+    padding: 5% 5%;
+    background-color:#612D08;
+}
+.footer1{
+    position: absolute;
+    top:20%;
+    width: 23%;
+    color: white;
+    font-size: 16px;
+    word-spacing: 3px;
+    text-align: justify;
+}
+.footer1 b,a{
+    color:white;
+}
+.footer1 b:hover{
+    color:#EE9A4D;
+}
+.footer2{
+    position: absolute;
+    left: 40%;
+    color: white;
+}
+.footer2 a,.footer3 a{
+    color:white;
+    font-size: 18px;
+}
+.footer2 a:hover,.footer3 a:hover{
+    color:#EE9A4D;
+}
+.footer3{
+    position: absolute;
+    left: 60%;
+    color: white;
+}
+.footer4{
+    position: absolute;
+    left: 80%;
+    color: white;
+}
+.footer5{
+    position: absolute;
+    bottom:4%;
+    width: 79%;
+    font-size: 12px;
+    color: white;
+}

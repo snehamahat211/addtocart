@@ -1,0 +1,70 @@
+*{
+
+    margin: 0px;
+
+}
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+a{
+
+    text-decoration: none;
+
+}
+
+.head1{
+
+    background-color:#612D08;
+
+    color: white;
+
+    padding: 20px;
+
+    height: 18px;
+
+}
+.header .shop
+{
+    border:1px solid ;
+    position: absolute;
+    top:100%;
+    right:2rem;
+    padding:1rem;
+    border-radius:.5rem;
+    box-shadow: var(--box-shadow);
+    width:30rem;
+    background: #fff;
+
+}
+.header .shop .cart1 
+{
+    border:1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    margin:1rem,0;
+
+
+}
+
+.header .shop .cart1 img
+{
+ height:10rem;
+}
+
+.header.shop.cart1 .fa-trash{
+    position: absolute;
+    font-size:2rem;
+    top:50%;
+    right:1rem;
+    cursor: pointer;
+    color:lightgrey;
+    
+}
+ 
+
